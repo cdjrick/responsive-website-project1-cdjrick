@@ -100,7 +100,7 @@ nav {
 }
 
 #btnSend {
-    width: 30%;
+    width: 35%;
     height: 21px;
     font-size: 13px
 }
@@ -293,7 +293,6 @@ main h2 {
         font-size: 1.2rem;
         border-top: 1rem solid orangered;
     }
-
     .foot dt {
         text-decoration: underline;
         padding-left: 2.5rem;
@@ -390,11 +389,7 @@ main h2 {
         font-size: 1.2rem;
         border-top: 1rem solid lightseagreen;
     }
-
-    .foot dt {
-        text-decoration: underline;
-        padding-left: 2.5rem;
-    }
+    
 
     .subnav {
         display: flex;
