@@ -212,6 +212,11 @@ main h2 {
         font-size: 1.2rem;
         border-top: 1rem solid skyblue;
     }
+
+    .foot dt {
+        text-decoration: underline;
+        padding-left: 2.5rem;
+    }
 }
 
 @media (min-width: 600px) and (max-width:999px) {
@@ -287,6 +292,11 @@ main h2 {
         background-color: hsl(0deg, 0%, 85%);
         font-size: 1.2rem;
         border-top: 1rem solid orangered;
+    }
+
+    .foot dt {
+        text-decoration: underline;
+        padding-left: 2.5rem;
     }
 
     .subnav {
@@ -379,6 +389,11 @@ main h2 {
         background-color: hsl(0deg, 0%, 85%);
         font-size: 1.2rem;
         border-top: 1rem solid lightseagreen;
+    }
+
+    .foot dt {
+        text-decoration: underline;
+        padding-left: 2.5rem;
     }
 
     .subnav {
