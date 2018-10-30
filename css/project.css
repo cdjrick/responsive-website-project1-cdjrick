@@ -137,7 +137,9 @@ subnav > a:active subnav > a:focus subnav > a:link {
 
 .docs {}
 
-.channels {}
+.channels {
+    padding-right: 1.6rem;
+}
 
 .main-link {
     padding: 0rem 0rem 0.75rem 2rem;
